@@ -1,4 +1,4 @@
-# Lightweight Federated IDS for Smart Home IoT 
+# A Lightweight Federated Learning Framework for Privacy Preserving Intrusion Detection in Smart Home IoT Networks
 
 ## 📌 Project Overview
 A lightweight Intrusion Detection System (IDS) developed using **Gated Recurrent Units (GRU)** for IoT environments. It achieves **96.5% accuracy** on the **Edge-IIoTset** while maintaining low latency and memory usage.
